@@ -1,3 +1,4 @@
+```react
 import React, { Component } from "react";
 import { render } from "react-dom";
 import Keyboard from "react-simple-keyboard";
@@ -137,6 +138,7 @@ class App extends Component {
         />
       </div>
     );
+```
   }
 }
 
